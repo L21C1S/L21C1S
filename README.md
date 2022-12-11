@@ -1,4 +1,4 @@
-## Olá, é um prazer ti ver aqui 👋
+## Wellcome! 👋
 
 <div align="center">
   <a href="https://github.com/L21C1S">
